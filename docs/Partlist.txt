@@ -1,0 +1,29 @@
+Part     Value            Package                     Link    
+
+C1       0.1uF            0805                        http://mouser.com    
+C2                        CPOL-RADIAL-100UF-25V       http://mouser.com   
+C3       0.1uF            0805                        http://mouser.com   
+
+D2                        SOD-123FL                   http://mouser.com   
+
+Q2       MMBT5088         SOT23-3                     http://mouser.com   
+
+R1       10K              R0805                       http://mouser.com    
+R2       10K              R0805                       http://mouser.com   
+R3       1K               R0805                       http://mouser.com   
+R4       1K               R0805                       http://mouser.com   
+R5       1K               R0805                       http://mouser.com   
+R6       1K               R0805                       http://mouser.com   
+R7       100ohm 	  R0805                       http://mouser.com   
+R8       56K pullup       R0805                       http://mouser.com   
+
+
+IC1      AMS1117          SOT223                      http://www.electrodragon.com/product/10pcs-ams1117-lm1117-1117-3-3v-1a-voltage-regulator/
+
+U$1      MMA845X_BREAKOUT MMA845XBOB                  http://www.electrodragon.com/product/triple-axis-accelerometer-breakout/    
+U$2      B3F-10XX_DEV     B3F-10XX                    http://www.electrodragon.com/product/mini-push-button-switch/
+U$8      TRANSDUCER       BMT1205XH7.5                https://www.reichelt.at/Alarmmelder/SUMMER-EPM-121/3/index.html?ACTION=3&GROUPID=3484&ARTICLE=35927      
+U$11     MICROSWITCH       			      https://www.aliexpress.com/item/6-7-2-7-1-5-3pin-slide-switch-New-products-and-ROHS/455478700.html
+U$12     VIBROMOTOR       VIBRO                       https://de.aliexpress.com/item/3-Pcs-1400RPM-Speed-3V-Mobile-Phone-Micro-DC-Coin-Vibration-Motor/32695914166.html    
+U$13     LIPO             LIPOCON                     https://www.aliexpress.com/item/100pcs-XH-2-5-2-54mm-2P-3P-4P-5P-6P-Female-Right-Angle-Connector-Pitch/32755811521.html
+X2                        ESP-12                      http://www.electrodragon.com/product/esp-12s-wifi-module-esp8266/    
