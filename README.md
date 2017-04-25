@@ -13,3 +13,4 @@ Also GERBER files are provided if you want to make your own Boards
 
 If you expect / need something that is not here, please let us know via email: team@ghou.st
 
+Information on sourcing the parts is available on the [wiki](https://github.com/Ghoust-game/hardware/wiki).
